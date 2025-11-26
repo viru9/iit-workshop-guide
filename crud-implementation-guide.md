@@ -1,6 +1,6 @@
 ## 10. Implement Complete CRUD API for Products
 
-**Prompt to AI:**
+**Prompt to AI:** 
 ```
 Create a complete CRUD (Create, Read, Update, Delete) API for products with the following operations:
 
@@ -59,4 +59,6 @@ Create an endpoint DELETE /api/products/:id that:
    - Initialize database connection from src/config/db.js
 
 All endpoints should handle errors gracefully and return consistent JSON error responses.
+
+After all create a new .md file as api-testing, add curl requests of all the apis we created
 ```
