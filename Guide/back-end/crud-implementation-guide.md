@@ -60,5 +60,5 @@ Create an endpoint DELETE /api/products/:id that:
 
 All endpoints should handle errors gracefully and return consistent JSON error responses.
 
-After all create a new .md file as api-testing, add curl requests of all the apis we created
+Finally create a new .md file as curl-requests.md, add curl requests of all the apis we created, save that as a new .md file under backend\src\docs
 ```
